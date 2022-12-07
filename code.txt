@@ -1,0 +1,5 @@
+var N= 4
+for (var a=-N;a<=N;a++){
+    array.push(a);
+}
+document.write(array);
