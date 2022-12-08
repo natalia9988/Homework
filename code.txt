@@ -1,9 +1,10 @@
 <script>
-var N= +promt ("Введите число");
-var array =[]
+var N = +promt("Введите число");
+var array = [];
 for (var a=-N;a<=N;a++){
     array.push(a);
 }
-document.write(array);
+document.write(array(a));
 </script>
+
 
