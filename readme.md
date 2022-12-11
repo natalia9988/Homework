@@ -19,4 +19,7 @@
 Создание ветки readme_test
 Работа с файлом project.md
 Создание ветки project_test1
+Создание ветки project_test2
+Создание ветки project_test3
+
 
