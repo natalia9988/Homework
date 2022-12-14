@@ -22,5 +22,5 @@
 Создание ветки project_test2
 Создание ветки project_test3
 Создание ветки project_test4
-
-
+Отправка репозитория на свой аккаунт в GitHab
+Pull request 
